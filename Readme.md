@@ -1,5 +1,5 @@
 # 背景
-美图秀秀从5.0.0-6.9.1的fabric上有大量如下崩溃，遂进行排查
+美图秀秀从5.0.0-6.9.1的fabric上有大量类似如下格式的崩溃，遂进行排查
 
 ~~~
 Incident Identifier: FFE8AEBE-4FDE-43F9-B216-358D0E3EF16D
