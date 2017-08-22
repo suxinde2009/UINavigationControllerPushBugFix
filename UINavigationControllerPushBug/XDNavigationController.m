@@ -8,10 +8,6 @@
 
 #import "XDNavigationController.h"
 
-@interface UINavigationController (DidFinishedPushAnimated)
-- (void)didShowViewController:(UIViewController *)viewController animated:(BOOL)animated;
-@end
-
 @interface XDNavigationController () <UINavigationControllerDelegate>
 
 @property (nonatomic, assign) BOOL shouldIgnorePushingViewControllers;
